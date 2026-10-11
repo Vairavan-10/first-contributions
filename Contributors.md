@@ -62,6 +62,7 @@
 - [Bao Khuong](https://github.com/KhuongBao)
 - [John Chavarría](https://github.com/Johnchc10)
 - [jmoreno]
+- vairavan
 - [Himanshu](https://github.com/himanshubit)
 - [Ahmed Rafi](httpd://github.com/ahmed-rafi07)
 - [Hassan Adelani](https://github.com/Hassan-Adelani-Luqman)
